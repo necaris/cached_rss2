@@ -1,0 +1,10 @@
+*~
+*.test
+_obj
+_test
+*.[568vq]
+[568vq].out
+*.o
+*.a
+*.so
+*.exe
